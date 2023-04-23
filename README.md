@@ -18,3 +18,6 @@ The results of this analysis will assist organizations, such as the United Natio
 ## 3. Dataset:
 
 The UN General Debate Corpus (UNGDC) is a dataset that includes English language transcripts of General Debate statements delivered at the United Nations General Assembly from 1970 (Session 25) to 2018 (Session 73). The dataset includes a total of 8,093 texts, with an average length of approximately 17,600 characters per speech. The UNGDC provides a unique and valuable source of information on the policy positions and perspectives of UN member states on a wide range of global issues, such as peace and security, human rights, development, and climate change. The dataset includes data on 200 countries, which makes it a comprehensive resource for analyzing the diversity of perspectives and policy priorities from around the world.
+
+United Nations General Debate Corpus -
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y&version=5.0
